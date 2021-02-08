@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <div>
-  <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Jeff!</h2>
+  <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">How are ya now? I'm Jeff!</h2>
   <p>
     I'm a full stack web developer in training at Epicodus. 🌱 currently learning React. Feel free to take a look around at my repositories, they include everything from my very first website to Team Week Projects for Epicodus. If you like what you see feel free to reach out to me by <a href=jeffchiudev@gmail.com.>email</a> Or check out my LinkedIn page <a href =https://www.linkedin.com/in/jeff-chiu-developer/>here</a>
   </p>
